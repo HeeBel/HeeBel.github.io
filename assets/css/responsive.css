@@ -1,9 +1,9 @@
 /* PC */
-@media (max-width: 1024px) {
+@media (max-width: 64em) {
 
 }
 /* Table and Mobie */
-@media (max-width: 1023px) {
+@media (max-width: 63.9375em) {
     .btn {
         padding: 15px 16px;
     }
@@ -35,12 +35,12 @@
     }
 }
 /* Table */
-@media (min-width: 740px) and (max-width: 1023px){
+@media (min-width: 46.25em) and (max-width: 63.9375em){
 
 }
 
 /* Mobie */
-@media (max-width: 740px) {
+@media (max-width: 46.1875em) {
     .s-full-width,
     .s-col-full { 
         width: 100% !important;
